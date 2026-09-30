@@ -1,0 +1,23 @@
+{
+  "request_delay_seconds": 0.25,
+  "sources": [
+    {
+      "platform": "greenhouse",
+      "company": "Cloudflare",
+      "token": "cloudflare",
+      "enabled": true
+    },
+    {
+      "platform": "greenhouse",
+      "company": "Figma",
+      "token": "figma",
+      "enabled": true
+    },
+    {
+      "platform": "lever",
+      "company": "Spotify",
+      "token": "spotify",
+      "enabled": true
+    }
+  ]
+}
